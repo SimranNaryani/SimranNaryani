@@ -2,7 +2,7 @@
 <h3 align="center">Undergrad computer engineering student from India</h3>
 
 ## 💫 About Me:
-<h3> - I'm a beginner full-stack developer<br>- I work on python and web development<br>- Always up for exploring new libraries and frameworks<br>- I also create designs/illustrations non-professionally</h3> 
+<h3> - I'm a full-stack python developer and a beginner web developer based in India<br>- Always up for exploring new libraries and frameworks<br>- I also create designs/illustrations non-professionally</h3> 
 
 ![](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif) 
 
