@@ -3,7 +3,7 @@
 ![Simran naryani](https://user-images.githubusercontent.com/79084332/192288795-d853f275-a935-4c49-9052-99801ece4b57.gif)
 
 ## 💫 About Me:
-<h3> - A Full-stack Python developer and a beginner Web developer based in India<br>- Currently a BE final year student and an intern<br>- Always up for exploring new libraries and frameworks<br>- A little help with new technologies/languages is really appreciated<br>- May create designs/illustrations non-professionally and occasionally</h3>
+<h3> - A Full-stack Python developer and a beginner Web developer based in India<br>- Currently a BE final year student and an intern<br>- Always up for exploring new libraries and frameworks<br>- May create designs/illustrations non-professionally and occasionally</h3>
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
