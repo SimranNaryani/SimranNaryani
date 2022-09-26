@@ -2,7 +2,7 @@
 <h3 align="center">Undergrad computer engineering student from India</h3>
 
 ## 💫 About Me:
-<h3> - A Full-stack Python developer and a beginner Web developer based in India<br>- Currently a BE final year student and an intern at Vormir Infotech LLP<br>- Worked on Data Science projects mostly involving Machine Learning<br>- Always up for exploring new libraries and frameworks<br>- May create designs/illustrations non-professionally and occasionally</h3>
+<h3> - A Full-stack Python developer and a beginner Web developer based in India<br>- Currently a BE final year student and an intern<br>- Always up for exploring new libraries and frameworks<br>- A little help with new technologies/languages is really appreciated<br>- May create designs/illustrations non-professionally and occasionally</h3>
 
 ![](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif) 
 
