@@ -22,7 +22,7 @@
 
 ## 🌐 Socials:
 [![About.me](https://img.shields.io/badge/About.me-%231DA1F2.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://about.me/simrann)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Simran-Naryani) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/simran-naryani/])
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SimranNaryani) 
 
 ## 📊 GitHub Stats:
